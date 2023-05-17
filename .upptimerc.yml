@@ -9,7 +9,7 @@ sites:
   - name: MeshMonk Bridge
     url: https://bridge.meshmonk.com
   - name: MeshMonk Bridge API
-    url: https://api.meshmonk.com/api/v1/ping
+    url: https://api.meshmonk.com/ping
 
 
 status-website:
