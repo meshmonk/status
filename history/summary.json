@@ -13,7 +13,7 @@
     "time": 117,
     "timeDay": 170,
     "timeWeek": 126,
-    "timeMonth": 115,
+    "timeMonth": 114,
     "timeYear": 117,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://bridge.meshmonk.com",
     "icon": "https://icons.duckduckgo.com/ip3/bridge.meshmonk.com.ico",
     "slug": "mesh-monk-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 184,
-    "timeWeek": 198,
-    "timeMonth": 170,
-    "timeYear": 173,
-    "dailyMinutesDown": {}
+    "time": 253,
+    "timeDay": 1623,
+    "timeWeek": 556,
+    "timeMonth": 260,
+    "timeYear": 253,
+    "dailyMinutesDown": {
+      "2023-06-17": 0
+    }
   },
   {
     "name": "Bridge API",
@@ -49,7 +51,7 @@
     "time": 149,
     "timeDay": 103,
     "timeWeek": 169,
-    "timeMonth": 149,
+    "timeMonth": 146,
     "timeYear": 149,
     "dailyMinutesDown": {}
   }
