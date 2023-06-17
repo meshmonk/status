@@ -22,19 +22,19 @@
     "url": "https://bridge.meshmonk.com",
     "icon": "https://icons.duckduckgo.com/ip3/bridge.meshmonk.com.ico",
     "slug": "mesh-monk-bridge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 1623,
-    "timeWeek": 556,
-    "timeMonth": 260,
-    "timeYear": 253,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 251,
+    "timeDay": 1141,
+    "timeWeek": 514,
+    "timeMonth": 257,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-06-17": 0
+      "2023-06-17": 17
     }
   },
   {
