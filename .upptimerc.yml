@@ -17,9 +17,9 @@ status-website:
   cname: status.meshmonk.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://meshmonk.com/assets/img/meshmonk.png
+  logoUrl: https://meshmonk.com/favicon.svg?v=2
   logoHref: https://meshmonk.com
-  favicon: https://formsure.co/assets/favicons/favicon-16x16.png?v=rMBOpxyMqM
+  favicon: https://meshmonk.com/favicon.svg?v=2
   name: "MeshMonk"
   introTitle: ""
   introMessage: ""
