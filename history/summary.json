@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 189,
-    "timeWeek": 346,
-    "timeMonth": 194,
-    "timeYear": 143,
+    "time": 142,
+    "timeDay": 89,
+    "timeWeek": 342,
+    "timeMonth": 193,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bridge.meshmonk.com.ico",
     "slug": "mesh-monk-bridge",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 224,
-    "timeDay": 205,
-    "timeWeek": 186,
-    "timeMonth": 205,
-    "timeYear": 224,
+    "uptimeYear": "99.99%",
+    "time": 223,
+    "timeDay": 85,
+    "timeWeek": 173,
+    "timeMonth": 204,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2023-06-17": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 214,
-    "timeWeek": 175,
-    "timeMonth": 180,
-    "timeYear": 162,
+    "time": 163,
+    "timeDay": 267,
+    "timeWeek": 199,
+    "timeMonth": 184,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   }
 ]
