@@ -1,7 +1,7 @@
 url: https://bridge.meshmonk.com
-status: down
-code: 500
-responseTime: 3241
-lastUpdated: 2023-08-10T13:29:30.409Z
+status: up
+code: 200
+responseTime: 174
+lastUpdated: 2023-08-10T13:40:51.150Z
 startTime: Tue May 16 2023 13:59:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
