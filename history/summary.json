@@ -4,18 +4,20 @@
     "url": "https://meshmonk.com",
     "icon": "https://icons.duckduckgo.com/ip3/meshmonk.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 87,
-    "timeWeek": 126,
-    "timeMonth": 154,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "time": 145,
+    "timeDay": 185,
+    "timeWeek": 146,
+    "timeMonth": 158,
+    "timeYear": 145,
+    "dailyMinutesDown": {
+      "2023-12-15": 0
+    }
   },
   {
     "name": "MeshMonk Bridge",
