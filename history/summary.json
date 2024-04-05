@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 5316,
-    "timeWeek": 1861,
-    "timeMonth": 637,
+    "timeDay": 5327,
+    "timeWeek": 1855,
+    "timeMonth": 636,
     "timeYear": 200,
-    "dailyMinutesDown": {
-      "2024-04-04": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MeshMonk Bridge",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 172,
-    "timeWeek": 144,
-    "timeMonth": 207,
+    "timeDay": 102,
+    "timeWeek": 135,
+    "timeMonth": 192,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2023-06-17": 17
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 180,
-    "timeWeek": 2441,
-    "timeMonth": 718,
+    "timeDay": 105,
+    "timeWeek": 2430,
+    "timeMonth": 715,
     "timeYear": 246,
     "dailyMinutesDown": {}
   }
