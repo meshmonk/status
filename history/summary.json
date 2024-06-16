@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 141,
-    "timeWeek": 131,
-    "timeMonth": 126,
-    "timeYear": 198,
+    "timeDay": 152,
+    "timeWeek": 143,
+    "timeMonth": 129,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 75,
-    "timeWeek": 167,
-    "timeMonth": 292,
+    "timeDay": 203,
+    "timeWeek": 182,
+    "timeMonth": 294,
     "timeYear": 232,
-    "dailyMinutesDown": {
-      "2023-06-17": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bridge API",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 222,
-    "timeWeek": 198,
-    "timeMonth": 200,
+    "timeDay": 327,
+    "timeWeek": 232,
+    "timeMonth": 206,
     "timeYear": 247,
     "dailyMinutesDown": {}
   }
