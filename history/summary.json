@@ -4,19 +4,19 @@
     "url": "https://meshmonk.com",
     "icon": "https://icons.duckduckgo.com/ip3/meshmonk.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 204,
-    "timeWeek": 138,
-    "timeMonth": 152,
+    "timeDay": 177,
+    "timeWeek": 136,
+    "timeMonth": 151,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 15
     }
   },
   {
