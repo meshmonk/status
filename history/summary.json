@@ -4,19 +4,19 @@
     "url": "https://meshmonk.com",
     "icon": "https://icons.duckduckgo.com/ip3/meshmonk.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 238,
-    "timeDay": 175,
-    "timeWeek": 184,
-    "timeMonth": 210,
+    "timeDay": 110,
+    "timeWeek": 167,
+    "timeMonth": 205,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-01-29": 0,
+      "2025-01-29": 11,
       "2024-07-27": 15
     }
   },
@@ -27,9 +27,9 @@
     "slug": "mesh-monk-bridge",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
     "time": 243,
     "timeDay": 163,
@@ -37,7 +37,7 @@
     "timeMonth": 279,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-01-29": 133
+      "2025-01-29": 145
     }
   },
   {
@@ -46,10 +46,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.meshmonk.com.ico",
     "slug": "bridge-api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
+    "uptime": "99.98%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
     "time": 253,
     "timeDay": 311,
@@ -57,7 +57,7 @@
     "timeMonth": 233,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-01-29": 133
+      "2025-01-29": 145
     }
   }
 ]
