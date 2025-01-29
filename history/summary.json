@@ -24,27 +24,29 @@
     "url": "https://bridge.meshmonk.com",
     "icon": "https://icons.duckduckgo.com/ip3/bridge.meshmonk.com.ico",
     "slug": "mesh-monk-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
+    "time": 243,
     "timeDay": 163,
     "timeWeek": 311,
     "timeMonth": 279,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Bridge API",
     "url": "https://api.meshmonk.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.meshmonk.com.ico",
     "slug": "bridge-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 286,
     "timeMonth": 233,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   }
 ]
