@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 110,
-    "timeWeek": 167,
-    "timeMonth": 205,
+    "timeDay": 55,
+    "timeWeek": 153,
+    "timeMonth": 203,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-01-29": 11,
       "2024-07-27": 15
     }
   },
@@ -26,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bridge.meshmonk.com.ico",
     "slug": "mesh-monk-bridge",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "89.94%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.97%",
+    "uptimeDay": "81.42%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.95%",
     "time": 243,
-    "timeDay": 163,
-    "timeWeek": 311,
-    "timeMonth": 279,
-    "timeYear": 257,
+    "timeDay": 0,
+    "timeWeek": 339,
+    "timeMonth": 283,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-01-29": 145
+      "2025-01-30": 52,
+      "2025-01-29": 215
     }
   },
   {
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.meshmonk.com.ico",
     "slug": "bridge-api",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "89.94%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.97%",
+    "uptimeDay": "81.42%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.95%",
     "time": 253,
-    "timeDay": 311,
-    "timeWeek": 286,
+    "timeDay": 0,
+    "timeWeek": 280,
     "timeMonth": 233,
-    "timeYear": 268,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-01-29": 145
+      "2025-01-30": 52,
+      "2025-01-29": 215
     }
   }
 ]
